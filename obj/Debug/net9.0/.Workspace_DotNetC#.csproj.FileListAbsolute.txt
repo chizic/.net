@@ -1,0 +1,14 @@
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\bin\Debug\net9.0\.Workspace_DotNetC#.exe
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\bin\Debug\net9.0\.Workspace_DotNetC#.deps.json
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\bin\Debug\net9.0\.Workspace_DotNetC#.runtimeconfig.json
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\bin\Debug\net9.0\.Workspace_DotNetC#.dll
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\bin\Debug\net9.0\.Workspace_DotNetC#.pdb
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\obj\Debug\net9.0\.Workspace_DotNetC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\obj\Debug\net9.0\.Workspace_DotNetC#.AssemblyInfoInputs.cache
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\obj\Debug\net9.0\.Workspace_DotNetC#.AssemblyInfo.cs
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\obj\Debug\net9.0\.Workspace_DotNetC#.csproj.CoreCompileInputs.cache
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\obj\Debug\net9.0\.Workspace_DotNetC#.dll
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\obj\Debug\net9.0\refint\.Workspace_DotNetC#.dll
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\obj\Debug\net9.0\.Workspace_DotNetC#.pdb
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\obj\Debug\net9.0\.Workspace_DotNetC#.genruntimeconfig.cache
+C:\Users\mirac\OneDrive\.Workspace_DotNetC#\obj\Debug\net9.0\ref\.Workspace_DotNetC#.dll
