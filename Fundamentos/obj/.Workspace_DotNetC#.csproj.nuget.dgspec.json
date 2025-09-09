@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mirac\\OneDrive\\.Workspace_DotNetC#\\.Workspace_DotNetC#.csproj": {}
+    "C:\\Users\\mirac\\OneDrive\\.Workspace_DotNetC#\\Fundamentos\\.Workspace_DotNetC#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mirac\\OneDrive\\.Workspace_DotNetC#\\.Workspace_DotNetC#.csproj": {
+    "C:\\Users\\mirac\\OneDrive\\.Workspace_DotNetC#\\Fundamentos\\.Workspace_DotNetC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mirac\\OneDrive\\.Workspace_DotNetC#\\.Workspace_DotNetC#.csproj",
+        "projectUniqueName": "C:\\Users\\mirac\\OneDrive\\.Workspace_DotNetC#\\Fundamentos\\.Workspace_DotNetC#.csproj",
         "projectName": ".Workspace_DotNetC#",
-        "projectPath": "C:\\Users\\mirac\\OneDrive\\.Workspace_DotNetC#\\.Workspace_DotNetC#.csproj",
+        "projectPath": "C:\\Users\\mirac\\OneDrive\\.Workspace_DotNetC#\\Fundamentos\\.Workspace_DotNetC#.csproj",
         "packagesPath": "C:\\Users\\mirac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mirac\\OneDrive\\.Workspace_DotNetC#\\obj\\",
+        "outputPath": "C:\\Users\\mirac\\OneDrive\\.Workspace_DotNetC#\\Fundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mirac\\AppData\\Roaming\\NuGet\\NuGet.Config"
